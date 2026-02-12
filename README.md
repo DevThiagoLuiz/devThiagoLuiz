@@ -1,7 +1,7 @@
 # Olá, eu sou o Thiago Luiz! 👋
 
 ### 🚀 Sobre Mim
-- 👨‍💻 Atuando como **Desenvolvedor FullStack **
+- 👨‍💻 Atuando como Desenvolvedor FullStack
 - 🎓 Graduado em Analíse e Desenvolvimento de sistemas na Estácio de sá.
 - 💡 Apaixonado por transformar café em código e resolver problemas complexos.
 
@@ -29,13 +29,10 @@ Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 </p>
 
-
 ### 📈 Contribuições e Atividades
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devThiagoLuiz&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-
 
 ### 📫 Vamos nos conectar?
 Se você quiser conversar sobre tecnologia, projetos ou apenas bater um papo, sinta-se à vontade:
@@ -49,7 +46,6 @@ Se você quiser conversar sobre tecnologia, projetos ou apenas bater um papo, si
   </a>
 </p>
 
----
 
 <p align="center">
   <i>"O sucesso não é o fim, o fracasso não é fatal: o que importa é a coragem de continuar."</i>
