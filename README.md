@@ -1,10 +1,5 @@
 # Olá, eu sou o Thiago Luiz! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devThiagoLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devThiagoLuiz&layout=compact&langs_count=7&theme=tokyonight" height="170em" alt="Top Languages" />
-</div>
-
 ### 🚀 Sobre Mim
 - 👨‍💻 Atuando como **Desenvolvedor FullStack **
 - 🎓 Graduado em Analíse e Desenvolvimento de sistemas na Estácio de sá.
