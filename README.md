@@ -10,7 +10,6 @@
 - 🎓 Graduado em Analíse e Desenvolvimento de sistemas na Estácio de sá.
 - 💡 Apaixonado por transformar café em código e resolver problemas complexos.
 
----
 
 ### 🛠 Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
@@ -24,6 +23,7 @@ Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
+
 **Banco de Dados & Cloud**
 <p> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
@@ -33,14 +33,14 @@ Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 </p>
----
+
 
 ### 📈 Contribuições e Atividades
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devThiagoLuiz&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
+
 
 ### 📫 Vamos nos conectar?
 Se você quiser conversar sobre tecnologia, projetos ou apenas bater um papo, sinta-se à vontade:
